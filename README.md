@@ -1,5 +1,5 @@
 # David Hart's Programming Portfolio
-A public repository showing my programming experience and other fun projects I've worked on. For more information about me, visit my [personal page](http://davidhartcv.com)
+A public repository showing my programming experience and other fun projects I've worked on. For more information about me, visit my [personal page](http://davidhartcv.com).
 
 ## Acoustics Research
 
