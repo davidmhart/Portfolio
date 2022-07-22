@@ -1,12 +1,11 @@
 # David Hart's Programming Portfolio
-A public repository showing my best work in computer science.
+A public repository showing my programming experience and other fun projects I've worked on. For more information about me, visit my [personal page](http://davidhartcv.com)
 
 ## Acoustics Research
 
 This is some of the code I used when I worked with Dr. Tracianne Neilsen and Dr. Kent Gee 
-on jet noise research. My part of the project was to build a computational model that simulated
-the jet noise and optimized to match our sound measurements around the jet. I used Matlab to
-build the simulation and process the data. For more information, see my published [JASA article](http://asa.scitation.org/doi/abs/10.1121/1.4806567).
+on jet noise research. I include it to show my experience with MATLAB coding. My part of the project was to build a computational model that simulated
+the jet noise and optimized to match our sound measurements around the jet. For more information, see my published [JASA article](http://asa.scitation.org/doi/abs/10.1121/1.4806567).
 
 ![Acoustics Research](https://github.com/incrl/portfolio/blob/master/Acoustics%20Research/Visualization.png)
 
@@ -21,7 +20,7 @@ It is an example of my coding abilities in Java. I am also very familiar with C+
 
 ## CS355 Python Curriculum
 
-After taking CS355, I began working with Dr. Brian Morse doing image processing research. I approached
+After taking CS355, I began working with Dr. Bryan Morse doing image processing research. I approached
 him about the idea of switching the CS355 class to Python since Python is better suited for image
 processing and matrix operations. He agreed to the idea and I rewrote the course labs in Python form.
 This is the currently used curriculum for the CS355 course. I also provided the Latex files that
@@ -33,12 +32,6 @@ This is a program that I made for fun to combine many different projects I have 
 Also, almost all the functions are vectorized and are implemented without using OpenCV (although plenty of Numpy was used).
 
 ![David's Photoshop](https://github.com/incrl/portfolio/blob/master/David's%20Photoshop/Visualization.gif)
-
-## Light Field Style Transfer
-
-As stated above, I am working with Dr. Morse on image processing research using deep learning. Our most recent research project involved doing style transfer for light field images. This research was published at WACV 2020. Our code can be found [here]().
-
-![Light Field Style Transfer](https://github.com/davidmhart/portfolio/blob/master/LightFieldExample.png)
 
 ## Other Interesting Code
 
